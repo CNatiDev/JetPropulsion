@@ -1,0 +1,5 @@
+# Jetpack Man
+Jetpack Man is a casual endless runner game where the player has to navigate through an overcrowded city full of buildings and neon lights that obscure visibility. The aim of the game is to avoid obstacles and keep moving forward for as long as possible.
+ The game is developed using Unity and C# programming language and uses physics to simulate realistic character movement. The player controls Jetpack Man, who is equipped with a jetpack to help him navigate the city. The game is fast-paced and requires quick reflexes to avoid obstacles such as buildings, billboards and flying drones.
+ As the player progresses through the game, the difficulty increases and the obstacles become more difficult to avoid. The game also includes fuel canisters that must be collected in order to move
+ Overall, Jetpack Man is an addictive and challenging endless runner game that is sure to keep players engaged and entertained. The use of realistic physics and movement mechanics add to the immersive gaming experience.
